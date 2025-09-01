@@ -123,9 +123,9 @@ bot_start_time = time.time()
 COOLDOWN = 10
 chat_last_command = {}
 chat_pending_commands = {}
-QUEUE_LIMIT = 20
-MAX_DURATION_SECONDS = 900  
-LOCAL_VC_LIMIT = 10
+QUEUE_LIMIT = 100
+MAX_DURATION_SECONDS = 10800   
+LOCAL_VC_LIMIT = 100
 playback_mode = {}
 
 
