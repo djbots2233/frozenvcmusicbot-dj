@@ -378,7 +378,7 @@ async def start_handler(_, message):
     support_group = os.getenv("SUPPORT_GROUP", "https://t.me/Frozensupport1")
     start_animation = os.getenv(
         "START_ANIMATION",
-        "https://ibb.co/B5XK17yW"
+        "https://ucarecdn.com/4d3e645e-78e2-41bc-ba3d-848838bb9873/-/preview/1000x666/"
     )
 
     caption = (
